@@ -1,6 +1,6 @@
 # 🌟 Hey there! I'm Hlib 👋
 
-I'm a Project Manager and Data Analyst dedicated to making complex IT projects run smoothly, deliver measurable value, and finish strong. I bring over seven years of experience to the table, ensuring technical strategies align perfectly with business outcomes.
+I'm a Project Manager and Data Analyst dedicated to making complex IT projects run smoothly, deliver measurable value, and finish within timeline. I bring over seven years of experience to the table, ensuring technical strategies align perfectly with business outcomes.
 
 My Approach
 Since 2018, I've had the fantastic opportunity to work behind the scenes in major organizations like GlobalLogic, Nordea, WOG, and Creatio. This experience across large outsourcing firms and nimble product companies gives me an insider's view on effective operational processes in organizations of all sizes.
