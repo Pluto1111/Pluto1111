@@ -19,5 +19,7 @@ Data & Performance Analysis (Experience): I leverage strong analytical experienc
 
 Infrastructure Coordination (Experience): Practical experience coordinating enterprise IT infrastructure, security, and maintenance across major cloud platforms (Azure, AWS, Google Cloud) and Linux systems.
 
+Mentorship & Team Development: Beyond operational management, I am actively committed to cultivating the next generation of IT talent. I serve as a mentor at teamchallenge.io, where I guide aspiring project managers and analysts through real-world scenarios, reinforcing my dedication to sharing practical knowledge and fostering strong team development skills—a capability I apply daily within my professional leadership roles.
+
 Industry Focus
 My professional playground includes the fast-paced worlds of Banking, E-commerce, Sports, and IT/Support.
