@@ -5,22 +5,12 @@ I'm a Project Manager and Data Analyst dedicated to making complex IT projects r
 My Approach
 Since 2018, I've had the fantastic opportunity to work behind the scenes in major organizations like GlobalLogic, Nordea, WOG, and Creatio. This experience across large outsourcing firms and nimble product companies gives me an insider's view on effective operational processes in organizations of all sizes.
 
-<table style="width: auto; border: none; margin: 0 auto; text-align: center;">
-  <tr>
-    <td style="border: none; padding: 0 15px;">
-      <img width="150" height="133" alt="wog" src="https://github.com/user-attachments/assets/5e24b1dd-87ef-4e5e-885b-9d265cd943a4" />
-    </td>
-    <td style="border: none; padding: 0 15px;">
-      <img width="140" height="140" alt="nordea" src="https://github.com/user-attachments/assets/f03b09f9-8fa2-4495-9219-f10d416a9e2d" />
-    </td>
-    <td style="border: none; padding: 0 15px;">
-     <img width="180" height="192" alt="gl2" src="https://github.com/user-attachments/assets/489671a1-7403-424f-968a-5c0e1e9dff13" />
-    </td>
-    <td style="border: none; padding: 0 15px;">
-      <img width="130" height="40" alt="creatio" src="https://github.com/user-attachments/assets/6182c906-0b8c-410e-b57e-b07e2bc82900" />
-    </td>
-  </tr>
-</table>
+<div align="justify">
+  <img width="150" height="133" alt="wog" src="https://github.com/user-attachments/assets/5e24b1dd-87ef-4e5e-885b-9d265cd943a4" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+  <img width="140" height="140" alt="nordea" src="https://github.com/user-attachments/assets/f03b09f9-8fa2-4495-9219-f10d416a9e2d" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+  <img width="180" height="154" alt="gl2" src="https://github.com/user-attachments/assets/c7f02a6c-0af2-4c6f-ad3e-412864ad7f40" />
+  <img width="130" height="40" alt="creatio" src="https://github.com/user-attachments/assets/6182c906-0b8c-410e-b57e-b07e2bc82900" />
+</div>
 
 <br> Core Strenths & Experience
 Project Leadership: Successfully managed project roadmaps and organized cross-functional teams, applying methodologies like Agile/Scrum and leveraging tools such as Notion, ClickUp, and Trello to drive timely delivery.
